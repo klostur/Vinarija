@@ -1,0 +1,41 @@
+.poz{
+	margin: 0% 25% 0% 25%;
+	padding: 50px;
+	background-color: #f4e6dc;
+	text-align: justify;
+}
+
+.naslov{
+	background-color: #eed6c5;
+	text-align: center;
+	padding: 30px;
+	color: #73523c;
+	border: 1px solid #73523c;
+}
+
+#korpa  {
+	text-align: center;
+	width: 100%;
+}
+
+#tabela{
+	border:1px solid black;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#tabela  tr:nth-child(odd){
+	background-color: #eed6c5;
+}
+
+h3{
+	color: #73523c;
+}
+
+tr {
+	width: 100%;
+}
+
+#korpa th{
+	width: 30%;
+}
